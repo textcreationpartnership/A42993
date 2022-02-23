@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Illustrissimis viris tam pietate quam prudentiâ atque auctoritate spectatissimis; ornatissimis D. Johanni Leveretto. D Josiæ Winslowæo. D. Guilielmo Leitto. Fœderatarum Nov-Angliæ Coloniarum Massachuset Plimouth Connecticut: gubernatoribus honoratissimis; cœterisque in magistratus onere et honore conjugatis, ad reipublicæ clavum jugiter excubantibus, incolumitatis publicæ apprimé studiosis; nec non reverendissimis cum academiæ, tum ecclesiatum curatoribus, theologis doctissimis et gravissimis; omnibus detuó et fiagulis bonarum literatum candidans, benevolis academiæ [1 word, greek, illegible] theses hasce, quas ([4 words, greek, illegible]) sub Rev: Uriano Oakes, Ecclesiæ Cantabrigiensis pastore, Collegii Harvardini Præside pro tempore, [greek, illegible] discutiendas, proponunt juvenes [3 words, greek, illegible] Johannes Cottonus. Cottonus Matherus. Grindallus Rawsonus. Urianus Oakes. D.D.D Q.</title>
+            <title>Theses. 1678.</title>
+            <author>Harvard College (1636-1780)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42993</idno>
+            <idno type="STC">Wing H1020</idno>
+            <idno type="STC">ESTC R218897</idno>
+            <idno type="EEBO-CITATION">99830450</idno>
+            <idno type="PROQUEST">99830450</idno>
+            <idno type="VID">34901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2091:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Illustrissimis viris tam pietate quam prudentiâ atque auctoritate spectatissimis; ornatissimis D. Johanni Leveretto. D Josiæ Winslowæo. D. Guilielmo Leitto. Fœderatarum Nov-Angliæ Coloniarum Massachuset Plimouth Connecticut: gubernatoribus honoratissimis; cœterisque in magistratus onere et honore conjugatis, ad reipublicæ clavum jugiter excubantibus, incolumitatis publicæ apprimé studiosis; nec non reverendissimis cum academiæ, tum ecclesiatum curatoribus, theologis doctissimis et gravissimis; omnibus detuó et fiagulis bonarum literatum candidans, benevolis academiæ [1 word, greek, illegible] theses hasce, quas ([4 words, greek, illegible]) sub Rev: Uriano Oakes, Ecclesiæ Cantabrigiensis pastore, Collegii Harvardini Præside pro tempore, [greek, illegible] discutiendas, proponunt juvenes [3 words, greek, illegible] Johannes Cottonus. Cottonus Matherus. Grindallus Rawsonus. Urianus Oakes. D.D.D Q.</title>
+                  <title>Theses. 1678.</title>
+                  <author>Harvard College (1636-1780)</author>
+                  <author>Oakes, Urian, 1631-1681.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Cantabrigiæ Nov Anglorum :</pubPlace>
+                  <date>idibus sextilibus: MDCLXXVIII. [1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title words: "D. Johanni .. Leitto.", "Fœderatarum .. coloniarum", "Massachuset .. Connecticut:", "gubernatoribus honoratissimis" joined by left braces.</note>
+                  <note>List of theses printed in two columns.</note>
+                  <note>Copy has some print fade; creased, torn and mended with slight loss of print.</note>
+                  <note>Reproduction of the original in the Hunterian Museum Library, Glasgow University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harvard College (1636-1780) --  Dissertations --  Early works to 1800.</term>
+               <term>Dissertations, Academic --  New England --  Early works to 1800.</term>
+               <term>Universities and colleges --  Massachusetts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34901:1" rendition="simple:additions"/>
+            <head>ILLUSTRISSIMIS VIRIS Tam Pietate, quam Prud<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nuâ atque Auctoritate ſpectatiſſimis; Ornatiſſimis
+<list>
+                  <item>D. JOHANNI LEVERETTO.</item>
+                  <item>D. JOSIAE WINSLOWAEO.</item>
+                  <item>D. G<g ref="char:V">Ʋ</g>ILIELMO LEITTO.</item>
+               </list>
+Foederatatum Nov-Angliae Colonia<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um
+<list>
+                  <item>Maſſachuſet</item>
+                  <item>Plimouth</item>
+                  <item>Connecticut:</item>
+               </list>
+Gubernatoribu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honoratiſſimis
+Coeteriſque in M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giſtratus Onere et Honore Conjugatis, ad Reipublicae clavum jugiter excubantibus, incolumitatis publicae apprimé ſtudioſis; Nec non Reverendiſſimis cum Academ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ae, tum Eccleſiatum Curatoribus, Theologis Doctiſſimis et Graviſſimis; Omnibus detuó et ſingulis bonarum Literarum candidans, benevolis Academiae <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </head>
+            <head type="sub">Theſes haſce, quas (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Sub Rev: URIANO OAKES, Eccleſiae Cantabrigienſis Paſtore, Collegii Harvardini Praeſide pro tempore, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> diſcutiendas, proponunt juvenes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <list>
+                  <item>
+                     <hi>Johannes Cottonus.</hi>
+                  </item>
+                  <item>
+                     <hi>Cottonus Matherus.</hi>
+                  </item>
+                  <item>
+                     <hi>Grindallus Rawſonus.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>rianus Oakes.</hi> D. D. D Q.</item>
+               </list>
+            </head>
+            <div type="part">
+               <head>THESES TECHNOLOGICAE:</head>
+               <list>
+                  <item>
+                     <seg rend="decorInit">A</seg>Rs est ordinata Intelligentia, Scientiae, Sapientiae, &amp; Prudentiae colligat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o &amp; concurſus.</item>
+                  <item>
+                     <hi>2.</hi> Ars praecipuè conſistit in Theoriâ Regulae, &amp; Praxi ſecundum Regulam.</item>
+                  <item>
+                     <hi>3.</hi> 
+                     <g ref="char:V">Ʋ</g>trumque perf<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>citur per Analyſin &amp; Geneſin.</item>
+                  <item>
+                     <hi>4.</hi> Libri Scripturae &amp; Creaturae ſunt mineralia ex quibus haec Regula eſt effodienda.</item>
+                  <item>
+                     <hi>5.</hi> Author entium est Author Art<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um.</item>
+                  <item>
+                     <hi>6.</hi> Praecepta Artis id agunt, ut veteri querelae, Ars longa, vita brevis, medeantur.</item>
+                  <item>
+                     <hi>7.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> eſt objectum &amp; finis artis.</item>
+                  <item>
+                     <hi>8.</hi> Praxis est Theoriae finis, medium finis ultimi.</item>
+                  <item>
+                     <hi>9.</hi> 
+                     <g ref="char:V">Ʋ</g>ſu confunduntur, ſpeculatione ſeparantur pra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tomena.</item>
+                  <item>
+                     <hi>10.</hi> G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neſis &amp; Analyſis eadem veſtigia premunt.</item>
+                  <item>
+                     <hi>11.</hi> In compoſitione mundi Geneſis fuit, in ejusdem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> reſolutione Ana<g ref="char:EOLhyphen"/>lyſis erit maximè conſpicua.</item>
+                  <item>
+                     <hi>12.</hi> Ars ut naturam juvet, non ut impediat adhibetur.</item>
+                  <item>
+                     <hi>13.</hi> Non ab artifice Ars, ſed ab arte artifex creatur.</item>
+                  <item>
+                     <hi>14.</hi> Aliquis in omnibus, nullus in ſingulis, non eſt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vtrum</item>
+                  <item>☞ Non datur Metaphyſica ab aliis Diſci<g ref="char:EOLhyphen"/>plinis distincta.</item>
+                  <item>
+                     <hi>16.</hi> In artium orbe adhuc restat multa Terra incognita.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>LOGICAE.</head>
+               <list>
+                  <item>DIalectica est Ars rationis.</item>
+                  <item>
+                     <hi>2</hi> Logicae munus totum est diſcernere &amp; diſponere.</item>
+                  <item>
+                     <hi>3.</hi> Affectio est forma Argumenti.</item>
+                  <item>
+                     <hi>4.</hi> Cauſa cognoſcitur per effectum tanquam per aliquid notius nois, effectus vero per cauſam, tanquam per aliquid notius naturâ.</item>
+                  <item>
+                     <hi>5.</hi> Fortuna (quae dicitur, eſt particula divinae providentiae.</item>
+                  <item>
+                     <hi>6.</hi> Materia eſt omnium entium a primo communis.</item>
+                  <item>
+                     <hi>7.</hi> Forma eſt principium diſtinctionis.</item>
+                  <item>
+                     <hi>8.</hi> Poſita forma, ponuntur eſſe, diſtinctio, &amp; operatio.</item>
+                  <item>
+                     <hi>9.</hi> Finis rei nihil aliud eſt quam rei bonitas, movens <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fficieniem, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rfi<g ref="char:EOLhyphen"/>ciens eff<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctum.</item>
+                  <item>
+                     <hi>10.</hi> Finium intentione eſt finis conceptus, finis in executione eſt finis natus.</item>
+                  <item>
+                     <hi>11.</hi> Exiſtintia eſt Eſſentia actualis.</item>
+                  <item>
+                     <hi>12.</hi> Locus &amp; Tempus ſunt entia merè Logica</item>
+                  <item>
+                     <hi>13</hi> Dive<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſis &amp; Oppoſitis aequè convenit diſſentire, ſed non convenit ae<g ref="char:EOLhyphen"/>q<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſſentire.</item>
+                  <item>
+                     <hi>14.</hi> Sola oppoſita realiter diſtinguuntur.</item>
+                  <item>
+                     <hi>15.</hi> Comparatio id agit, ut comparata aeque nota evadant.</item>
+                  <item>
+                     <hi>16</hi> Diſtributio maximè accurata eſt dichotomia.</item>
+                  <item>
+                     <hi>17.</hi> Totum in diſtributione, eſt pars in definitione.</item>
+                  <item>
+                     <hi>18.</hi> Pa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s in distributione eſt totum in definitione.</item>
+                  <item>
+                     <hi>19.</hi> Genus habet naturam diſtinctam á ſpeciebus, non ſeparatam.</item>
+                  <item>
+                     <hi>20.</hi> Teſtimonium divinum eſt <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>niſſimum.</item>
+                  <item>
+                     <hi>21.</hi> Omnis veritas est certa, licet non neceſſaria.</item>
+                  <item>
+                     <hi>22</hi> Diſc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eta Axiomata non concludunt, ſed diſtinguunt.</item>
+                  <item>
+                     <hi>23.</hi> D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> axiomate immediatè, de ſillogi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mo mediaté ſit judicium.</item>
+                  <item>
+                     <hi>24</hi> Nulla datur ſyllogiſmi contingentia.</item>
+                  <item>
+                     <hi>25.</hi> Tertium Argumentum eſt ſyllogiſmi Arbiter.</item>
+                  <item>
+                     <hi>26.</hi> Explicatus primus eſt ſyllogiſmus refutationis.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>GRAMMATICAE.</head>
+               <list>
+                  <item>GRammatica eſt Antidotus contra confuſarum linguarum male<g ref="char:EOLhyphen"/>dictionem.</item>
+                  <item>
+                     <hi>2.</hi> Suum Idioma ſervare eſt omni lingua privilegium neceſſarium.</item>
+                  <item>
+                     <hi>3.</hi> Prima ſermonis gratia eſt purè loqui.</item>
+                  <item>
+                     <hi>4.</hi> Nota rerum aliae poſſunt cudi praeter verba et literas.</item>
+                  <item>
+                     <hi>5.</hi> Aliquid de populorum moribus poteſt colligi ex ipſorum linguis.</item>
+                  <item>
+                     <hi>6.</hi> D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtinctio inter verba Homonyma eſt praecipuus Orthographiae uſus.</item>
+                  <item>
+                     <hi>7.</hi> Q<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>antitas &amp; accentus ſunt ſyllabarum condimenta.</item>
+                  <item>
+                     <hi>8.</hi> Syntaxis eſt cynoſura quae lectorem dirigit in ſenſum ſententiarum.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>RHETORICAE.</head>
+               <list>
+                  <item>RHetoricae munus eſt dictamina Rationis Phantaſiae applicare.</item>
+                  <item>
+                     <hi>2</hi> Rhetorica facit bonum apparens.</item>
+                  <item>
+                     <hi>3</hi> Copia Troporum fluxit ex inopiâ verborum.</item>
+                  <item>
+                     <hi>4</hi> Omnis tropus in axi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>matibus ſinon aptiſſime adhibitus, est Cat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chreſis</item>
+                  <item>
+                     <hi>5</hi> Hyperbole vel ſupra vel infra metam ſemper rolat.</item>
+                  <item>
+                     <hi>6</hi> Hyberbole quamvis ultra fidem, non tamen ultra modum eſſe debet.</item>
+                  <item>
+                     <hi>7</hi> Allegoria eſt metaphorarum conventus.</item>
+                  <item>
+                     <hi>8</hi> Tropus doctis, figura Idietis eſt elocutionis pars mellitiſſima.</item>
+                  <item>
+                     <hi>9</hi> Apoſtrophe eſt orationis circumactio, ut auditores commodius, inopi<g ref="char:EOLhyphen"/>nato opprimat.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>MATHEMATICAE</head>
+               <list>
+                  <item>ULtima unitas eſt numeri forma.</item>
+                  <item>
+                     <hi>2</hi> Extractio radicum est arithmeticae pars longè digniſſima.</item>
+                  <item>
+                     <hi>3</hi> Lineae Geometricae ſunt reales, quamvis non ſenſibus perceptibiles.</item>
+                  <item>
+                     <hi>4</hi> Linea non conſtat è punctus.</item>
+                  <item>
+                     <hi>5</hi> Lineae ſolidae oriuntur è corporis ſectione.</item>
+                  <item>
+                     <hi>6</hi> Aequalitas eſt menſura inaequalitatis.</item>
+                  <item>
+                     <hi>7</hi> Recto non datur rectius.</item>
+                  <item>
+                     <hi>8</hi> 
+                     <g ref="char:V">Ʋ</g>bi Anguli ſunt aequicruri Baſis tantummodo conſtituit differentiam.</item>
+                  <item>
+                     <hi>9</hi> Pyramis eſt ſoli<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orum prima.</item>
+                  <item>
+                     <hi>10</hi> Aequator eſt praecipua tempo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is menſura.</item>
+                  <item>
+                     <hi>11</hi> Aſtronomiae pars utiliſſima non adhuc ex hypotheſibus colligenda ex<g ref="char:EOLhyphen"/>hibetur.</item>
+                  <item>
+                     <hi>12</hi> Aſtrologia, quae dicitur judiciaria eſt ſani judi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ii expers.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>PHYSICAE</head>
+               <list>
+                  <item>PHyſica est ars benë naturandi</item>
+                  <item>
+                     <hi>2</hi> Phyſicam tractandi ordo p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rf<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctiſſimus exhibetur in primo Geneſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pite:</item>
+                  <item>
+                     <hi>3:</hi> Adaequatum Phyſicae ſubj<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctum est Natura:</item>
+                  <item>
+                     <hi>4:</hi> Non in tempore, ſed cum tempore mundus creabatur:</item>
+                  <item>
+                     <hi>5:</hi> Infinita non poſſunt eſſe principia:</item>
+                  <item>
+                     <hi>6:</hi> Natura non agit niſi virtute primae cauſae:</item>
+                  <item>
+                     <hi>7:</hi> Angeli ſunt quanti quamvis non co<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rei:</item>
+                  <item>
+                     <hi>8:</hi> Omnis inconstans natura eſt p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>:</item>
+                  <item>
+                     <hi>9:</hi> Elementa non ag<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt et patiuntur niſi per qualitates:</item>
+                  <item>
+                     <hi>10.</hi> Monſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra ſunt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> naturae imp<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>duae:</item>
+                  <item>
+                     <hi>11:</hi> Generatio et Corruptio non ſunt pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è motus ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d termini motus:</item>
+                  <item>
+                     <hi>12:</hi> Qualitatum receptione non ſit <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in ſubjecto ſed <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>13:</hi> Sonus non eſt mora eliſio aeris:</item>
+                  <item>☞ Dantur tres Animae in eodem homine.</item>
+                  <item>
+                     <hi>15</hi> Res intelligitur Intellectione rectâ V<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ritas Intellectione reflexâ.</item>
+                  <item>☞ Voluntas ſemper determinatur ab ultimo In<g ref="char:EOLhyphen"/>tellectus practici Judicio.</item>
+                  <item>☞ Ethica non datur ſpecie distincta a Theolo<g ref="char:EOLhyphen"/>gia.</item>
+               </list>
+               <closer>
+                  <dateline>Cantabrigiae Nov Anglorum <date>Idibus S<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xtilibu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>: MDCLXXVIII.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
